@@ -97,4 +97,4 @@ const puppeteer = require('puppeteer');
 To run this example, save it as [`puppeteer-test/index.js`](puppeteer-test/index.js) and execute it with Node.js:
 
 ```bash
-node puppeteer-test/index.js# play-with-puppeteer-package
+node puppeteer-test/index.js
